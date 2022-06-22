@@ -17,6 +17,55 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\7-ds-time-series-analysis\material+curso+-+Time+Series\material curso - Time Series\alucar.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\7-ds-time-series-analysis\material+curso+-+Time+Series\material curso - Time Series\alucel.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\7-ds-time-series-analysis\material+curso+-+Time+Series\material curso - Time Series\cafelura.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\7-ds-time-series-analysis\material+curso+-+Time+Series\material curso - Time Series\chocolura.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\7-ds-time-series-analysis\material+curso+-+Time+Series\material curso - Time Series\dias_final_de_semana.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\7-ds-time-series-analysis\material+curso+-+Time+Series\material curso - Time Series\newsletter_alucar.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\7-ds-time-series-analysis\material+curso+-+Time+Series\material curso - Time Series\vendas_por_dia.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
